@@ -1,0 +1,6 @@
+Validacija programskog proizvoda odgovara na pitanja zadovoljava li proizvod zahtjeva funkcijske zahtjeve i provodi se ispitivanjem sustava.
+Verifikacija programskog proizvoda odgovara na pitanja zadovoljava li sustav zahtjeve na ispravan način. Uključuje provjeru zasnovanu na formalnim(matematičkim i logičkim) metodama.
+TRI TEHNIKE ISPITIVANJA
+Funkcijsko ispitivanje (crna kutija) - ispitivanje funkcionalnosti programa bez unutarnje strukture implementacije.
+Strukturno ispitivanje - Ispitivanje očekivanog ponašanja zasnovano na svojstvima programa ili oblikovanju. Cilj ispitivanja je pokrivanje izvođenja svih mogućih naredbi i uvjeta programa najmanje jednom.
+Integracijsko ispitivanje - Svrha integracijskog testiranja je provjera funkcionalnosti, performansi i pouzdanosti između integriranih modula prema specifikaciji dokumentacije zahtjeva
